@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 // function to calculate chai recipe
 function calculateChaiIngredients(numberOfCups){
    numberOfCups = parseInt(prompt("Karibu! How many cups of Chai Bora would you like to make?"));
