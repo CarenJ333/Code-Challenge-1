@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 // function to estimation transaction fee
 function estimateTransactionFee(amountToSend){
     amountToSend = parseFloat(prompt("Unatuma Ngapi?"));
