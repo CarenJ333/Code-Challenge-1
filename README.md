@@ -11,13 +11,13 @@ This app calculates the ingredients required to make a given number of cups of K
 - Tea leaves
 - Sugar
 
-## Challenge 2: Boda Boda Ride Fare Estimator 🛵
+## Challenge 2: Boda Boda Ride Fare Estimator 
 
 ### Description
 This script estimates the fare for a Boda Boda ride based on distance.
 
 
-## ✅ Challenge 3: Transaction Fee Estimator 💰
+## Challenge 3: Transaction Fee Estimator
 
 ### Description
 This calculator estimates the transaction fee based on the amount sent, using a 1.5% fee rate and applying minimum and maximum fee rules.
